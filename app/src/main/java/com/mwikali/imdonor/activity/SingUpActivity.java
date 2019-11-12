@@ -1,4 +1,4 @@
-package com.mwikali.imdonor;
+package com.mwikali.imdonor.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+
+import com.mwikali.imdonor.R;
 
 public class SingUpActivity extends AppCompatActivity {
 

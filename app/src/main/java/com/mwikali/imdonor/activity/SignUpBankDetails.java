@@ -1,8 +1,10 @@
-package com.mwikali.imdonor;
+package com.mwikali.imdonor.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.mwikali.imdonor.R;
 
 public class SignUpBankDetails extends AppCompatActivity {
 

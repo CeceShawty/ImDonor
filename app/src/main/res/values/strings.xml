@@ -17,4 +17,14 @@
     <string name="county">County</string>
     <string name="town">Town</string>
     <string name="street_address">Street Address</string>
+    <string name="title_activity_main_donor">MainActivityDonor</string>
+    <string name="urgent_requests">Urgent Requests</string>
+    <string name="news">News</string>
+    <string name="donation_centres">Donation Centres</string>
+    <string name="faqs">FAQs</string>
+    <string name="quiz">Quiz</string>
+    <string name="before_attending">Before Attending</string>
+    <string name="learn_about_blood">Learn about blood</string>
+    <string name="info">Info</string>
+
 </resources>
